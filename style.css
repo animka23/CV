@@ -26,6 +26,8 @@ body
 {
 	width: 30%;
 	float: left;
+	    display: inline-block;
+        height: 100%;
 
 }
 .tile1
@@ -45,7 +47,8 @@ body
     background-color: #303030;
 	 text-align: center;
 	 font-size: 25px;
-	 padding-top: 15px;
+	 padding-top: 58px;
+	 height: 1084px;
 }
 
 #square3
@@ -53,6 +56,8 @@ body
     width: 70%;
 	float: left;
     color: black;
+    display: inline-block;
+    height: 100%;
 
 }
 .tile3
@@ -123,16 +128,23 @@ ol > li > ul > li ::after
 .demo-icon.icon-angle-double-right
 {
 	margin-left: -28px;
+	padding-top: 5px;
 }
 .demo-icon.icon-graduation-cap
 {
-	margin-left: 50px;
-	margin-right: 5px;
+	margin-left: -18px;
+    margin-right: -11px;
 }
 
 .kolumna2
 {
 	padding-left: 34px;
+}
+.kolumna3
+{
+    padding-left: 34px;
+    padding-top: 20px;
+
 }
 .demo-icon.icon-progress-1
 { 
@@ -237,17 +249,16 @@ a:active
 }
 .demo-icon.icon-linkedin-squared
 {
-	margin-left: 96px;
+
 	font-size: 54px;
 }
 .icon-facebook-squared
 {
-	margin-left: 96px;
 	font-size: 53px;
 }
 .demo-icon.icon-github
 {
-	margin-left: 96px;
+
 	font-size: 53px;
 }
 div.demo {
@@ -269,6 +280,7 @@ div.demo {
 	background-color: #303030;
 	padding: 10px;
 	color:#f8f2f2;
+	display:none;
 
   }
   .bottomdown
@@ -279,5 +291,6 @@ div.demo {
 	bottom: 9px;
 	background-color: #303030;
 	padding: 10px;
-	color:#f8f2f2;  
+	color:#f8f2f2;
+	display:none;
   }
