@@ -97,6 +97,7 @@ ol > li
 	font-weight: 700;
 	padding: 0 10px;
 	font-style: normal;
+	padding-left : 1px;
 }
 
 ol > li > ul
@@ -132,7 +133,7 @@ ol > li > ul > li ::after
 }
 .demo-icon.icon-graduation-cap
 {
-	margin-left: -18px;
+	margin-left: -30px;
     margin-right: 10px;
 }
 
