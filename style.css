@@ -63,7 +63,6 @@ body
 .tile3
 {   margin: 10px;
     width: 680px;
-    background-color: #f8f2f2;
     color: black;
     padding: 10px;
 }
@@ -94,7 +93,7 @@ ol > li
 {
 	font-size: 17px;
 	text-transform: none;
-	font-weight: 700;
+	font-weight: 400;
 	padding: 0 10px;
 	font-style: normal;
 	padding-left : 1px;
