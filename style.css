@@ -97,6 +97,7 @@ ol > li
 	padding: 0 10px;
 	font-style: normal;
 	padding-left : 1px;
+	margin-left: -28px;
 }
 
 ol > li > ul
