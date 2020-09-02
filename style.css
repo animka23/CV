@@ -294,4 +294,11 @@ div.demo {
 	padding: 10px;
 	color:#f8f2f2;
 	display:none;
-  }
+	}
+
+	.image1
+	{
+     float: right;
+    display: block;
+    margin-right: 44px;
+	}
