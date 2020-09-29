@@ -3,7 +3,7 @@ body
 	background-color: white;
 	color: #ffffff;
 	font-family: Roboto, sans-serif;
-	font-size: 14.5px;
+	font-size: 16.5px;
 	font-style: normal;
 }
 #container
@@ -60,7 +60,7 @@ body
 
 }
 .tile3
-{   margin: 10px;
+{   margin: -23px 10px;
     width: 680px;
     color: black;
     padding: 10px;
@@ -90,7 +90,7 @@ ol{
 }
 ol > li
 {
-	font-size: 17px;
+	font-size: 18px;
 	text-transform: none;
 	font-weight: 400;
 	padding: 0 10px;
@@ -101,7 +101,7 @@ ol > li
 
 ol > li > ul
 {
-	font-size: 17px;
+	font-size: 18px;
 	text-transform: none;
 	font-weight: 400;
 	padding: 0px;
