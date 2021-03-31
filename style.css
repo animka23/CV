@@ -47,7 +47,7 @@ body
     background-color: #303030;
 	 text-align: center;
 	 padding-top: 58px;
-	 height: 1337px;
+	 height: 1200px;
 }
 
 #square3
@@ -82,7 +82,7 @@ body
     text-align: center;
     font-size: 17px;
     color: black;
-
+    margin-top: 18px;
 }
 ol{
 	list-style: none;
@@ -308,7 +308,7 @@ div.demo {
 font-size: 23px;
 text-align: center;
 color: #ffffff;
-padding: 15px;
+padding: 38px;
 
 }
 table tbody
